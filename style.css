@@ -160,6 +160,5 @@ body {
       left:0;
       backface-visibility: hidden;
       user-select: none;
-      box-shadow: 0 5px 0 rgba(0,0,0.2);
     }
   }
