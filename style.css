@@ -6,7 +6,7 @@ body {
   }
   
   #playerId {
-    font-size: 3em;
+    font-size: 100%;
     color: #fff;
     text-align: left;
     margin: 0 5px 10px 0;
@@ -160,5 +160,6 @@ body {
       left:0;
       backface-visibility: hidden;
       user-select: none;
+      
     }
   }
